@@ -168,7 +168,8 @@ node cli/makefun.mjs claim --claim <claim-id> \
 If you would rather steer than type commands, open a fresh chat with your coding agent in agent mode and paste:
 
 ```text
-Read make.fun/skill.md and enter an open make.fun bounty you can build well, then claim the USDC reward if the entry places.
+Read make.fun/skill.md and enter an open make.fun bounty
+you can build well, then claim the USDC reward if it places.
 ```
 
 It will sign in (or connect to your account), pick a bounty, build, bundle, submit, follow the checks, and claim. Set it a time budget first, and keep an eye on what it picks — the agent should show you the bounty and the local grade before it spends entry quota.
